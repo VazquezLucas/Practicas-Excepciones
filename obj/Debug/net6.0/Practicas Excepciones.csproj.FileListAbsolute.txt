@@ -1,0 +1,15 @@
+C:\Users\vazqu\source\repos\Practicas Excepciones\bin\Debug\net6.0\Practicas Excepciones.exe
+C:\Users\vazqu\source\repos\Practicas Excepciones\bin\Debug\net6.0\Practicas Excepciones.deps.json
+C:\Users\vazqu\source\repos\Practicas Excepciones\bin\Debug\net6.0\Practicas Excepciones.runtimeconfig.json
+C:\Users\vazqu\source\repos\Practicas Excepciones\bin\Debug\net6.0\Practicas Excepciones.dll
+C:\Users\vazqu\source\repos\Practicas Excepciones\bin\Debug\net6.0\Practicas Excepciones.pdb
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.csproj.AssemblyReference.cache
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.AssemblyInfoInputs.cache
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.AssemblyInfo.cs
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.dll
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\refint\Practicas Excepciones.dll
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.pdb
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\Practicas Excepciones.genruntimeconfig.cache
+C:\Users\vazqu\source\repos\Practicas Excepciones\obj\Debug\net6.0\ref\Practicas Excepciones.dll
