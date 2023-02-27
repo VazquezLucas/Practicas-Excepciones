@@ -6,7 +6,7 @@ namespace PracticasExcepciones
     {
         static void Main(string[] args)
         {
-            /*
+            
             Random numero = new Random();  
 
             int aleatorio = numero.Next(0,100);
@@ -54,21 +54,21 @@ namespace PracticasExcepciones
             //Expreciones checked y andchecked
 
             
-                int numero = int.MaxValue;
+                int numero2 = int.MaxValue;
 
-                int resultado = checked(numero + 20);
+                int resultado = checked(numero2 + 20);
 
                 Console.WriteLine(resultado);
 
 
 
 
-                int numero2 = int.MaxValue;
+                int numero3 = int.MaxValue;
 
-                int resultado2 = unchecked(numero + 20);
+                int resultado2 = unchecked(numero3 + 20);
 
                 Console.WriteLine(resultado2);
-            */
+            
 
             //NOMBRE DEL MES
 
@@ -87,8 +87,11 @@ namespace PracticasExcepciones
             }
 
             Console.WriteLine("Aquí continuaria la ejecución del resto del programa");
+            
         }
 
+
+        
         public static string NombreDelMes(int mes)
         {
 
@@ -135,6 +138,7 @@ namespace PracticasExcepciones
 
                     throw new ArgumentOutOfRangeException();
             }
+            
 
         }
     }
